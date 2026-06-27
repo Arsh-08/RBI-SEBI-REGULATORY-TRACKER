@@ -129,21 +129,6 @@ Run-off rate for SME deposits reduced from 10% to 7.5% (relationship-based). Low
 - `Information Architecture` — Structuring unstructured regulatory text into searchable database
 - `Financial Modelling` — Capital impact analysis (CAR, PCR, LCR direction and mechanism)
 
----
-
-## How to Extend This Project
-
-To add a new circular:
-1. Go to rbi.org.in → Notifications or sebi.gov.in → Circulars
-2. Download or paste the circular text
-3. Use the prompt template from Sheet 3 (Prompt Log), adapting Step 3 for the new subject matter
-4. Add a new row to Sheet 2 (Circular Tracker) with the extracted output
-5. Update Sheet 4 (Capital Impact Matrix) and Sheet 5 (Compliance Calendar)
-
-The methodology scales to any number of circulars across any jurisdiction.
-
----
-
 ## References
 
 - [RBI Notifications](https://www.rbi.org.in/Scripts/NotificationUser.aspx)
